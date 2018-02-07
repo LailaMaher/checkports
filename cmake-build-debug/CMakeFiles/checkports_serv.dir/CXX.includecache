@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oranngeoai/Documents/projects/checkports/UDPSocket.cpp
+UDPSocket.h
+/home/oranngeoai/Documents/projects/checkports/UDPSocket.h
+
+/home/oranngeoai/Documents/projects/checkports/UDPSocket.h
+iostream
+-
+netinet/ip.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+cstring
+-
+unistd.h
+-
+
+/home/oranngeoai/Documents/projects/checkports/dummy_server.cpp
+iostream
+-
+csignal
+-
+UDPSocket.h
+/home/oranngeoai/Documents/projects/checkports/UDPSocket.h
+
