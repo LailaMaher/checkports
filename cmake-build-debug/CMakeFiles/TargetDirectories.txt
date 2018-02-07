@@ -1,0 +1,4 @@
+/home/oranngeoai/Documents/projects/checkports/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oranngeoai/Documents/projects/checkports/cmake-build-debug/CMakeFiles/checkports_cli.dir
+/home/oranngeoai/Documents/projects/checkports/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oranngeoai/Documents/projects/checkports/cmake-build-debug/CMakeFiles/checkports_serv.dir

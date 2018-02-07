@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/checkports_serv.dir/UDPSocket.cpp.o CMakeFiles/checkports_serv.dir/dummy_server.cpp.o  -o checkports_serv 
